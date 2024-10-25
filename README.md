@@ -1,2 +1,4 @@
-#Student_Rest_API_ Newman
-##How to run this Project
+# Student_Rent API & Newman
+
+A brief description of what this project does and who it's for
+
