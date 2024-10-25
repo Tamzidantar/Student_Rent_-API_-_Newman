@@ -2,8 +2,6 @@
 
 ## How to run this project
 
-
-
 - Clone this Project
 - Open with Postman/Command shell
 - Run command:
@@ -25,3 +23,23 @@
 - Node Js 
 - Newman
 - Html Report Library
+
+## Newman and Report Installation Process :
+- Newman Install command :
+```http
+  npm install -g newman-reporter-htmlextra
+```
+- Newman Htlm Report Install Command :
+```http
+  npm install -g newman-reporter-html
+```
+## API Documentation :
+```http
+https://documenter.getpostman.com/view/38560436/2sAY4sijCb
+```
+### Test case list :
+  1. Get Student
+   - a test case for Status Code Validation
+   -  Check the length of the response.
+
+
